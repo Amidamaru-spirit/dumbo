@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dumbo/static/css/main.e8ab0d67.css",
+    "main.js": "/dumbo/static/js/main.d4d5e7f6.js",
+    "index.html": "/dumbo/index.html",
+    "main.e8ab0d67.css.map": "/dumbo/static/css/main.e8ab0d67.css.map",
+    "main.d4d5e7f6.js.map": "/dumbo/static/js/main.d4d5e7f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ab0d67.css",
+    "static/js/main.d4d5e7f6.js"
+  ]
+}
