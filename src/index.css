@@ -100,4 +100,30 @@ body {
 	font-family: Roboto, sans-serif;
 	color: aliceblue;
 	font-size: 60px;
+	text-shadow: 0 0px 10px rgba(191, 123, 255, 0.781);
+}
+@media (max-width: 768px) {
+	.head__head {
+		font-weight: 400;
+		font-family: Roboto, sans-serif;
+		color: aliceblue;
+		font-size: 24px;
+		text-shadow: 0 0px 10px rgba(191, 123, 255, 0.781);
+	}
+	.foot__head {
+		font-weight: 400;
+		font-family: Roboto, sans-serif;
+		color: aliceblue;
+		font-size: 24px;
+		text-shadow: 0 0px 10px rgba(191, 123, 255, 0.781);
+	}
+	a {
+		font-size: 18px;
+	}
+	.head__open {
+		left: 25%;
+	}
+	.foot__open {
+		right: 6%;
+	}
 }
